@@ -40,7 +40,7 @@ I'm here for guidance, coaching and to help otherwise as needed.
 Ideally, we will provide **each other** feedback that is:
 
 * Given with the intent of helping the other person grow.
-* Aimed at behavior, not the person. â€œYou are dumbâ€ is not feedback, it is an attack on the person.
+* Aimed at behavior, not the person. "You are dumb" is not feedback, it is an attack on the person.
 * Actionable and explicit as to what improved behavior looks like.
 * Given as quickly as possible. Timely feedback provides a tighter loop to reorient behavior.
 * Radical Candor makes a lot of sense. I want to provide feedback in which it is plainly obvious that I both care about you and believe it will help you grow.
