@@ -10,7 +10,7 @@ I am not a morning person and I tend to be productive during afternoons. I prefe
 
 # My role
 
-As a manager, it is my job manage and keep the engineering teams running as smoothly and hapilly as possible without getting too much on their way. I like to avoid micromanaging as much as possible so I will try to provide early feedback if things are not going as expected.
+As a manager, it is my job to manage and keep the engineering teams running as smoothly and happily as possible without getting too much in their way. I like to avoid micromanaging as much as possible so I will try to provide early feedback if things are not going as expected.
 
 Even though some of my days are quite busy and full meetings, I should be available to talk to my reports whenever possible. In the cases where I do not reply immediately. I will try to get back to you as soon as I am available.
 
