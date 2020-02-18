@@ -14,7 +14,7 @@ As a manager, it is my job to manage and keep the engineering teams running as s
 
 Even though some of my days are quite busy and full meetings, I should be available to talk to my reports whenever possible. In the cases where I do not reply immediately. I will try to get back to you as soon as I am available.
 
-My calendar is open to everyone I work with: please schedule new ones right after existing ones so I can get some larger blocks of time for some heads-down work. Since I have a team in Boston and have worked remotely for a long time, I am usually available during most of US working hours. I will also reply to emails/slack from my phone after that if the topic seems urgent but I don't expect my reports to do that. 
+My calendar is open to everyone I work with: please schedule new ones right after existing ones so I can get some larger blocks of time for some heads-down work. Since I still have a few meeting with people in Boston, I usually start late in the morning (after 10am) and leave after 7pm in most days so my schedule overlaps with US working hours. I will also reply to emails/slack from my phone after that if the topic seems urgent but I don't expect my reports to do that. 
 
 I like autonomous low-touch teams that proactively look for valuable work and answers to their questions.
 
